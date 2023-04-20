@@ -5,8 +5,13 @@
 
 #### Integrantes del equipo.
 
-* Carrillo Reyes Rogelio
-* Garcia Vazquez Oscar Daniel
+- Beltran Taira Eduardo Rene	
+- Carrillo Reyes Rogelio	
+- Copado Luna Jorge Arturo	
+- Garcia Vazquez Oscar Daniel	
+- Montes Contreras Daniel Alberto	
+- Toledo Ramirez Manuel Enrique	
+- Valadez Melendez Cruz Eduardo	
 
 ### Listado de sensores:
 * [KY-023 Joystick](./joystick.md)
