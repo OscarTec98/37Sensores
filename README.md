@@ -1,4 +1,7 @@
 # 37Sensores (Sistemas Programables)
+# Depto de Sistemas y Computación
+# Ing. En Sistemas Computacionales
+# SISTEMAS PROGRAMABLES 23a
 
 # Integrantes del equipo.
 
