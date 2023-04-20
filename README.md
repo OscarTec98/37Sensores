@@ -9,3 +9,4 @@
 * Garcia Vazquez Oscar Daniel
 
 ### Listado de sensores:
+* [KY-023 Joystick](./joystick.md)
