@@ -5,4 +5,7 @@
 
 # Integrantes del equipo.
 
+* Carrillo Reyes Rogelio
 * Garcia Vazquez Oscar Daniel
+
+# Listado de sensores:
