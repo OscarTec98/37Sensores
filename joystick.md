@@ -2,6 +2,7 @@
 
 ## OBJETIVO:
 
+Mostrar el boton que se esta presionando en el joystick usando Raspberry Pi Pico
 
 ## CÓDIGO
 ```python
