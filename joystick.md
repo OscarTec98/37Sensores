@@ -68,7 +68,9 @@ while True:
 
 ![](./Imagenes/joyleft.jpeg)
 
-![](https://www.snapon.co.za/images/thumbs/default-image_550.png)
+![](./Imagenes/joyup.jpeg)
+
+![](./Imagenes/joyright.jpeg)
 
 ## CONCLUSIONES
-_esta es conclusión_
+Muy satisfecho con esta practica ya que aprendes a como controlar un joystick que es algo que la mayoria de nosotros llevamos usando desde que que somos niños y ahora poder programarlo es algo satisfactorio
