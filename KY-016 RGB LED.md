@@ -58,9 +58,9 @@ if __name__ == "__main__":
 
 ## PRUEBAS
 
-![](./Imagenes/)
+![](./Imagenes/KY-%20016%20RGB%20LED%20.jpg)
 
-![](./Imagenes/)
+![](./Imagenes/KY-%20016%20RGB%20LED.mp4)
 
 ![](./Imagenes/)
 
