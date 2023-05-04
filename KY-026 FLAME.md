@@ -24,7 +24,7 @@ utime.sleep(0.1)
 
 ## PRUEBAS
 
-![](./Imagenes/)
+![](./Imagenes/KY-026 FLAME.png)
 
 ![](./Imagenes/)
 
