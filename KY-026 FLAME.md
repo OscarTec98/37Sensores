@@ -24,11 +24,9 @@ utime.sleep(0.1)
 
 ## PRUEBAS
 
-![](./Imagenes/KY-026 FLAME.png)
+![](./Imagenes/KY-%20026%20FLAME.jpg)
 
-![](./Imagenes/)
-
-![](./Imagenes/)
+![](./Imagenes/KY-%20026%20FLAME.png)
 
 ## CONCLUSIONES
 
