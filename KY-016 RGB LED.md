@@ -60,9 +60,9 @@ if __name__ == "__main__":
 
 ![](./Imagenes/KY-%20016%20RGB%20LED%20.jpg)
 
-![](./Imagenes/KY-%20016%20RGB%20LED.mp4)
+![](./Imagenes/B%20LED.jpg)
 
-![](./Imagenes/)
+![](./Imagenes/GB%20LED.jpg)
 
 ## CONCLUSIONES
 
