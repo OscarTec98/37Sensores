@@ -14,4 +14,4 @@
 - Valadez Melendez Cruz Eduardo	
 
 ### Listado de sensores:
-* [KY-023 Joystick](./joystick.md)
+* [KY-023 Joystick](./KY-023Joystick.md)
