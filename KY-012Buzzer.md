@@ -19,9 +19,7 @@ while True:
 
 ## PRUEBAS
 
-
-https://github.com/OscarTec98/37Sensores/assets/124211870/a47da52f-e93a-4aee-be67-028454c72502
-
+https://github.com/OscarTec98/37Sensores/assets/124211870/4939265b-e27c-49fb-9ade-2a137dc251ef
 
 ## CONCLUSIONES
 Fue muy facil hacer encender el buzzer y es algo que encontramos comunmente en nuestra vida cotidiana
