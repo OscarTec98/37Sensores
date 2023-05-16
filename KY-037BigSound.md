@@ -9,7 +9,7 @@ Mostrar la intensidad de sonido detectada por el sensor Big Sound en la consola 
 from machine import Pin, ADC
 from time import sleep
 
-buzzer = Pin(16, Pin.OUT, value=0)
+bigS = Pin(16, Pin.OUT, value=0)
 
 sensor = ADC(0)
         
