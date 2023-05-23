@@ -40,6 +40,6 @@ read_pulse()
 
 ![Setup](./Imagenes/KY-039A.jpg)
 
-![En uso](./Imagenes/KY-039OB.jpg)
+![En uso](./Imagenes/KY-039B.jpg)
 
-![Resultado](./Imagenes/KY-039OC.jpg)
+![Resultado](./Imagenes/KY-039C.jpg)
