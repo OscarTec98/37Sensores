@@ -1,1 +1,14 @@
-
+Código fuente para hacer funcionar el KY-004 Button
+  # Librerías necesarias de Micropython
+  import machine
+  import time
+  # Instrucción que configura el componente en el pin GPIO18 
+  button_pin = machine.Pin(18, machine.Pin.IN, machine.Pin.PULL_UP)
+  # Estructura ciclica infinita que muestra en consola un mensaje 
+  # dependiendo si se está presionando el botón o no.
+  while True:
+    if button_pin.value() == 0:
+        print("BOTON PRESIONADO")
+    else:
+        print("PRESIONA EL BOTON!")
+    time.sleep(1)
