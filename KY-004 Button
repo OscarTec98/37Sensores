@@ -1,4 +1,10 @@
-Código fuente para hacer funcionar el KY-004 Button
+# KY-004 Button
+
+## OBJETIVO:
+Muestra un mensaje en consola dependiendo si se presiona o no el botón
+
+## CÓDIGO
+```python
   # Librerías necesarias de Micropython
   import machine
   import time
@@ -12,3 +18,10 @@ Código fuente para hacer funcionar el KY-004 Button
     else:
         print("PRESIONA EL BOTON!")
     time.sleep(1)
+```
+
+## PRUEBAS
+
+
+## CONCLUSIONES
+Es bastante sencillo hacer funcionar el botón
