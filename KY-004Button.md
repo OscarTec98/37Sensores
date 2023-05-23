@@ -22,7 +22,7 @@ Muestra un mensaje en consola dependiendo si se presiona o no el botón
 
 ## PRUEBAS
 
-Imagenes/ky-004Button.jpg
+!(Imagenes/ky-004Button.jpg)
 
 
 ## CONCLUSIONES
