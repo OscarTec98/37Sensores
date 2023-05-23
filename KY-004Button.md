@@ -24,6 +24,7 @@ Muestra un mensaje en consola dependiendo si se presiona o no el botón
 
 ![Imagenes/ky-004Button.jpg](https://github.com/OscarTec98/37Sensores/blob/main/Imagenes/ky-004Button.jpg)
 
+!(https://github.com/OscarTec98/37Sensores/blob/main/Imagenes/ky-0041.jpg)
 
 ## CONCLUSIONES
 Es bastante sencillo hacer funcionar el botón
