@@ -23,7 +23,7 @@ while True:
 
 ## PRUEBAS
 
-![](./Imagenes/.gif)
+https://github.com/OscarTec98/37Sensores/assets/124211870/ec6ec9ee-9dfa-4383-b2ea-ce7d5682a52f
 
 ## CONCLUSIONES
 Un sensor muy utilizado sobretodo en dispositivos moviles, ya que es capaz de detectar el nivel de inclinacion que le damos
