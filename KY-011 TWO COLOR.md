@@ -22,7 +22,7 @@ while True:
 
 ## PRUEBAS
 
-![](./Imagenes/)
+![](./Imagenes/KY-011 TWO COLOR (1).jpg)
 
 ![](./Imagenes/)
 
