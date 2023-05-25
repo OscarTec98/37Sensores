@@ -17,4 +17,4 @@
 * [KY-023 Joystick](./KY-023Joystick.md)
 * [KY-037 Big Sound](./KY-037BigSound.md)
 * [KY-038 Small Sound](./KY-038SmallSound.md)
-* [KY-033 Tracking](./KY-033 Tracking.md)
+* [KY-033 Tracking](./KY-033Tracking.md)
