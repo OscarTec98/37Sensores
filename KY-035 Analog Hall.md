@@ -1,4 +1,4 @@
-¿Qué es? <br?
+¿Qué es? <br>
 El sensor Hall magnético analógico KY-035 es un módulo que reacciona en presencia de un imán. Puede medir la polaridad y la fuerza relativa de un campo magnético.
 
 ¿Para qué sirve? <br>
