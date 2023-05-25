@@ -26,4 +26,4 @@ GPIO.cleanup()
 ```
 
 ## Resultado
-![](./Imagenes/Circuito3.jpeg)
+![Captura](Imagenes/Circuito3.jpg)
