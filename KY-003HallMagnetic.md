@@ -4,7 +4,7 @@ INFORMACIÓN
 
 El Sensor Magnético KY-003 es un módulo que integra un sensor magnético de Efecto Hall con salida digital. Permite detectar de forma fácil, rápida y precisa campos magnéticos producidos cerca de sensor.
 
-El El Sensor Magnético KY-003 es muy útil en proyectos de electrónica, robótica y automatización por ejemplo: para medir posiciones sin  tener contacto, un contador de ciclos, es muy común verlos en aplicaciones como velocímetros sobre todo en bicicletas.
+El Sensor Magnético KY-003 es muy útil en proyectos de electrónica, robótica y automatización por ejemplo: para medir posiciones sin  tener contacto, un contador de ciclos, es muy común verlos en aplicaciones como velocímetros sobre todo en bicicletas.
 
 ![imagen](Imagenes/KY-003B.jpg)
 
