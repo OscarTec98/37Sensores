@@ -26,4 +26,4 @@ while True:
     time.sleep(0.1)
 ```
 
-![imagen](./Imagenes/Circuito 1.jpg)
+![imagen](Imagenes/Circuito 1.jpg)
