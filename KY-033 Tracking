@@ -1,4 +1,4 @@
-///
+```
 #Se importan las librerías de micropython para la configuración del sensor.
 from machine import Pin
 import time
@@ -14,4 +14,4 @@ while True:
         print("1   Negro")
         #Se espera 0.1 segundos para realizar otra lectura
     time.sleep(0.1)
-  ///
+```
