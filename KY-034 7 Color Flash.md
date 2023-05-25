@@ -24,4 +24,4 @@ timer.init(freq=2.5, mode=Timer.PERIODIC, callback=ledblink)
 ```
 
 ## Resultado
-![imagen](Imagenes/Circuito 2.jpg)
+![](./Imagenes/Circuito 2.jpeg)
