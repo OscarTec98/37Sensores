@@ -16,3 +16,5 @@ while True:
         #Se espera 0.1 segundos para realizar otra lectura
     time.sleep(0.1)
 ```
+
+![imagen](Imagenes/Circuito 1.jpg)
