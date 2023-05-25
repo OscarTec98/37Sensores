@@ -1,5 +1,5 @@
 ## CODIGO
-```Python
+```python
 #Se importan las librerías de micropython para la configuración del sensor.
 from machine import Pin
 import time
