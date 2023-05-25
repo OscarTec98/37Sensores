@@ -6,12 +6,12 @@ El Sensor Magnético KY-003 es un módulo que integra un sensor magnético de Ef
 
 El El Sensor Magnético KY-003 es muy útil en proyectos de electrónica, robótica y automatización por ejemplo: para medir posiciones sin  tener contacto, un contador de ciclos, es muy común verlos en aplicaciones como velocímetros sobre todo en bicicletas.
 
-![imagen](KY-003B.jpg)
+![imagen](Imagenes/KY-003B.jpg)
 
 
 <h2>Diagrama</h2>
 
-![imagen](KY-003C.jpg)
+![imagen](Imagenes/KY-003C.jpg)
 
 <h2>Codigo</h2>
 import machine
@@ -29,4 +29,4 @@ while True:
 <h2>Resultado</h2>
 
 
-![image](KY-003A.jpg)
+![image](Imagenes/KY-003A.jpg)
